@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+}
+.logo {
+    text-align: center;
+    margin-top: 10px;
+}
+.search{
+    background-color:#eeeeee;
+    height: 50px;
+    margin-inline:100px;
+    text-align: center;
+    padding-bottom: 40px;
+    margin-bottom: 5px;
+    
+}
+p {
+    text-align: center;
+}
+input {
+    text-align: center;
+    margin: 0;
+    width: 18%;
+}
+button {
+    text-align: center;
+}
+.speciallink{
+    background-color: #7EE5DA;
+    height: 120px;
+    margin-left:100px;
+    text-align: center;
+    padding-top: 10px;
+    float: left;
+    width: 25%;
+} 
+.speciallink2{
+    background-color: #7EE5DA;
+    height: 120px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 10px;
+    float: left;
+    width: 35%;
+} 
+.speciallink3{
+    background-color: #7EE5DA;
+    height: 120px;
+    text-align: center;
+    margin-left: 10px;
+    padding-top: 10px;
+    float: left;
+    width: 25%;
+} 
